@@ -19,15 +19,15 @@
 # Screenshots:
 Main Activity:
 
-<img width="197" alt="image" src="">
+<img width="197" alt="image" src="https://github.com/RavirajWadnerkar/ChatGPT_Audit_Log_Prompts_and_Responses/assets/47893967/e5220bb4-6199-4be7-8d6c-7afbde6c0745">
 
 Saving prompt and response:
 
-<img width="237" alt="image" src="">
+<img width="237" alt="image" src="https://github.com/RavirajWadnerkar/ChatGPT_Audit_Log_Prompts_and_Responses/assets/47893967/15cee48c-b9d8-4f8f-8927-0397da06fd7c">
 
 Displaying the logs:
 
-<img width="237" alt="image" src="">
+<img width="237" alt="image" src="https://github.com/RavirajWadnerkar/ChatGPT_Audit_Log_Prompts_and_Responses/assets/47893967/3fd0aa6e-d5f0-42ae-9f9d-857d452bceb0">
 
 
 
