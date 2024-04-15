@@ -1,0 +1,4 @@
+#Sat Apr 13 22:53:45 PDT 2024
+base.0=D\:\\RAVI\\SJSU\\Ravi\\Sem-2\\Smartphone Application\\dusre ka assignment\\CMPE-277-Assignments-main\\CMPE-277-Assignments-main\\Assignment5_Audit Log Prompts and Responses\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
